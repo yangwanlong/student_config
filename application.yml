@@ -54,7 +54,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:7000/eureka,http://localhost:7001/eureka,http://localhost:7002/eureka
   instance:
-    instance-id: provider-user-8000                #定义微服务的名称
+    instance-id: provider-user-8005                #定义微服务的名称
     prefer-ip-address: true                        #是否显示IP和端口
 
 #mybatis-plush配置
